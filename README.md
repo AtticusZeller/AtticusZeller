@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Atticus Zeller 👋</h1>
 
 - 🔭 I’m currently working on __computer vision like deep learning and 3D-reconstruction__
-- ⚡ Fun fact: __I'm also an analog photography enthusiast and a sports aficionado__
+- ⚡ Fun fact: __I'm also an avid reader and a sports aficionado__
 
 <h3 align="left">Languages and Tools:</h3>
 
