@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Atticus Zeller 👋</h1>
 
-🌱 Currently completing my undergraduate studies and preparing for graduate studies in Artificial Intelligence.
+🌱 Currently completing my undergraduate studies and preparing for postgraduate studies in Artificial Intelligence.
 
 🛠️ Tech Stack:
 - Programming languages: Python | C++
